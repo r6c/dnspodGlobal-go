@@ -1,3 +1,3 @@
-module github.com/nrdcg/dnspod-go
+module github.com/r6c/dnspodGlobal-go
 
-go 1.14
+go 1.18
